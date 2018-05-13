@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: rapier
   become: true
   tasks:
   - name: Install htop
